@@ -352,15 +352,15 @@ Scope of work:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusincyber&show_icons=true&theme=github_dark&hide_border=true&title_color=38BDF8&icon_color=22C55E&text_color=C9D1D9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusincyber&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD" />
 
 <br><br>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=matheusincyber&theme=github-dark-blue&hide_border=true" />
+<img height="180em" src="https://streak-stats.demolab.com?user=matheusincyber&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD" />
 
 <br><br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusincyber&layout=compact&theme=github_dark&hide_border=true&title_color=38BDF8&text_color=C9D1D9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusincyber&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" />
 
 </div>
 
@@ -370,7 +370,7 @@ Scope of work:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=matheusincyber&theme=onedark&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=matheusincyber&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7" />
 
 </div>
 
@@ -380,17 +380,7 @@ Scope of work:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=matheusincyber&theme=github-dark&hide_border=true&color=C9D1D9&line=22C55E&point=38BDF8&area=true" />
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=matheusincyber&hide_border=true&bg_color=0D1117&color=C9D1D9&line=22C55E&point=38BDF8&area=true&area_color=0E7490" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=matheusincyber&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&area_color=6D28D9" />
 
 </div>
 
