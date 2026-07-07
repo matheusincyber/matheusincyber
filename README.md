@@ -348,35 +348,11 @@ Scope of work:
 
 ---
 
-## GitHub Analytics
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=matheusincyber&show_icons=true&theme=github_dark&hide_border=true" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusincyber&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=matheusincyber&theme=darkhub&no-frame=true&no-bg=true&margin-w=10" />
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=matheusincyber&theme=react-dark&hide_border=true" />
+<img src="https://raw.githubusercontent.com/matheusincyber/matheusincyber/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
