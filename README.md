@@ -352,15 +352,21 @@ Scope of work:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusincyber&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD" />
+<img src="https://github-readme-stats.vercel.app/api?username=matheusincyber&show_icons=true&theme=github_dark&hide_border=true" />
 
 <br><br>
 
-<img height="180em" src="https://streak-stats.demolab.com?user=matheusincyber&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusincyber&layout=compact&theme=github_dark&hide_border=true" />
 
-<br><br>
+</div>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusincyber&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" />
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=matheusincyber&theme=darkhub&no-frame=true&no-bg=true&margin-w=10" />
 
 </div>
 
@@ -370,7 +376,7 @@ Scope of work:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=matheusincyber&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&area_color=6D28D9" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=matheusincyber&theme=react-dark&hide_border=true" />
 
 </div>
 
