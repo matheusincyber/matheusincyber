@@ -348,11 +348,39 @@ Scope of work:
 
 ---
 
-## GitHub Activity
+## GitHub Analytics
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/matheusincyber/matheusincyber/output/github-contribution-grid-snake-dark.svg" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusincyber&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=22C55E&text_color=C9D1D9" />
+
+<br><br>
+
+<img height="180em" src="https://streak-stats.demolab.com?user=matheusincyber&hide_border=true&background=0D1117&ring=22C55E&fire=D97706&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" />
+
+<br><br>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusincyber&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" />
+
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=matheusincyber&theme=matrix&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7" />
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=matheusincyber&hide_border=true&bg_color=0D1117&color=C9D1D9&line=22C55E&point=38BDF8&area=true&area_color=0E7490" />
 
 </div>
 
