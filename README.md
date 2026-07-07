@@ -16,7 +16,7 @@
 <br><br>
 
 <img src="https://img.shields.io/badge/France-Mer%20%7C%20Blois%20%7C%20Orl%C3%A9ans-312E81?style=flat-square&logo=googlemaps&logoColor=white" />
-<a href="https://www.linkedin.com/in/matheus-de-carvalho">
+<a href="https://www.linkedin.com/in/matheusincyber">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:matheusincyber@gmail.com">
@@ -437,10 +437,10 @@ open_to:
 <div align="center">
 
 <a href="mailto:matheusincyber@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-mmatheusincyber%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-matheusincyber%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/matheus-de-carvalho">
+<a href="https://www.linkedin.com/in/matheusincyber">
   <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
