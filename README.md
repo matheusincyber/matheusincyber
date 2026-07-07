@@ -366,16 +366,6 @@ Scope of work:
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=matheusincyber&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7" />
-
-</div>
-
----
-
 ## Contribution Activity
 
 <div align="center">
