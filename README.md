@@ -352,7 +352,7 @@ Scope of work:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusincyber&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=22C55E&text_color=C9D1D9" />
+
 
 <br><br>
 
@@ -360,21 +360,12 @@ Scope of work:
 
 <br><br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusincyber&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" />
+
 
 </div>
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=matheusincyber&theme=matrix&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7" />
-
-</div>
-
----
 
 ## Contribution Activity
 
