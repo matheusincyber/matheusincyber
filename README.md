@@ -1,7 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:1e1b4b,35:4c1d95,70:6d28d9,100:312e81&text=Matheus%20De%20Carvalho&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Cybersecurity%20%7C%20SOC%20Analyst%20%7C%20Security%20Engineering%20%7C%20DevOps%20%26%20Cloud&descAlignY=58&descSize=18" />
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1e1b4b,50:6d28d9,100:312e81&text=Matheus%20De%20Carvalho&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Cybersecurity%20%7C%20SOC%20Analyst%20%7C%20Security%20Engineering&descAlignY=58&descSize=17" /><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=Cybersecurity+Bootcamp+Graduate;Junior+SOC+Analyst+%7C+SIEM+%7C+Incident+Response;Security%2B+in+Progress;Building+Hands-On+SOC+Labs+with+Splunk%2C+Sysmon+and+Kali;Open+to+Cybersecurity%2C+IT+Support+and+DevOps+Opportunities" />
 
