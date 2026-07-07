@@ -19,7 +19,7 @@
 <a href="https://www.linkedin.com/in/matheus-de-carvalho">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:mrcarvalhofr@gmail.com">
+<a href="mailto:matheusincyber@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-6D28D9?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/matheusincyber">
@@ -436,8 +436,8 @@ open_to:
 
 <div align="center">
 
-<a href="mailto:mrcarvalhofr@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-mrcarvalhofr%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:matheusincyber@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-mmatheusincyber%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/matheus-de-carvalho">
