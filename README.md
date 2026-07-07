@@ -1,7 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1e1b4b,50:6d28d9,100:312e81&text=Matheus%20De%20Carvalho&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Cybersecurity%20%7C%20Junior%20SOC%20Analyst%20%7C%20IT%20Support%20%7C%20Security%20Operations&descAlignY=58&descSize=17" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,45:064e3b,75:22c55e,100:111827&text=Matheus%20De%20Carvalho&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Cybersecurity%20%7C%20Junior%20SOC%20Analyst%20%7C%20IT%20Support%20%7C%20Security%20Operations&descAlignY=58&descSize=17" />
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=Cybersecurity+Bootcamp+Graduate;Junior+SOC+Analyst+%7C+SIEM+%7C+Incident+Response;Security%2B+in+Progress;Building+Hands-On+SOC+Labs+with+Splunk%2C+Sysmon+and+Kali;Open+to+Cybersecurity%2C+IT+Support+and+SOC+Opportunities" />
@@ -462,6 +461,5 @@ open_to:
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:312e81,50:6d28d9,100:1e1b4b" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:111827,45:064e3b,100:020617" />
 </div>
