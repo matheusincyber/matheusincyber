@@ -1,38 +1,39 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,45:064e3b,75:22c55e,100:111827&text=Matheus%20De%20Carvalho&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Cybersecurity%20%7C%20Junior%20SOC%20Analyst%20%7C%20IT%20Support%20%7C%20Security%20Operations&descAlignY=58&descSize=17" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,45:0f172a,75:0e7490,100:111827&text=Matheus%20De%20Carvalho&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Cybersecurity%20%7C%20Junior%20SOC%20Analyst%20%7C%20IT%20Support%20%7C%20Security%20Operations&descAlignY=58&descSize=17" />
+
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=Cybersecurity+Bootcamp+Graduate;Junior+SOC+Analyst+%7C+SIEM+%7C+Incident+Response;Security%2B+in+Progress;Building+Hands-On+SOC+Labs+with+Splunk%2C+Sysmon+and+Kali;Open+to+Cybersecurity%2C+IT+Support+and+SOC+Opportunities" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Cybersecurity+Bootcamp+Graduate;Junior+SOC+Analyst+%7C+SIEM+%7C+Incident+Response;Security%2B+in+Progress;Building+Hands-On+SOC+Labs+with+Splunk%2C+Sysmon+and+Kali;Open+to+Cybersecurity%2C+IT+Support+and+SOC+Opportunities" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Ironhack-Cybersecurity%20Bootcamp-7C3AED?style=for-the-badge&logo=academia&logoColor=white" />
-<img src="https://img.shields.io/badge/RNCP-Level%206-6366F1?style=for-the-badge&logo=readme&logoColor=white" />
-<img src="https://img.shields.io/badge/CompTIA%20Security%2B-In%20Progress-4F46E5?style=for-the-badge&logo=comptia&logoColor=white" />
-<img src="https://img.shields.io/badge/TryHackMe-Top%201%25-9333EA?style=for-the-badge&logo=tryhackme&logoColor=white" />
+<img src="https://img.shields.io/badge/Ironhack-Cybersecurity%20Bootcamp-0F172A?style=for-the-badge&logo=academia&logoColor=white" />
+<img src="https://img.shields.io/badge/RNCP-Level%206-1E293B?style=for-the-badge&logo=readme&logoColor=white" />
+<img src="https://img.shields.io/badge/CompTIA%20Security%2B-In%20Progress-D97706?style=for-the-badge&logo=comptia&logoColor=white" />
+<img src="https://img.shields.io/badge/TryHackMe-Top%201%25-059669?style=for-the-badge&logo=tryhackme&logoColor=white" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/France-Mer%20%7C%20Blois%20%7C%20Orl%C3%A9ans-312E81?style=flat-square&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/France-Mer%20%7C%20Blois%20%7C%20Orl%C3%A9ans-111827?style=flat-square&logo=googlemaps&logoColor=white" />
 <a href="https://www.linkedin.com/in/matheusincyber">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=flat-square&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-matheusincyber-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:matheusincyber@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-6D28D9?style=flat-square&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-matheusincyber%40gmail.com-0F172A?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/matheusincyber">
-  <img src="https://img.shields.io/badge/GitHub-matheusincyber-1E1B4B?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-matheusincyber-111827?style=flat-square&logo=github&logoColor=white" />
 </a>
 <a href="https://tryhackme.com/p/matheusincyber">
-  <img src="https://img.shields.io/badge/TryHackMe-matheusincyber-7C3AED?style=flat-square&logo=tryhackme&logoColor=white" />
+  <img src="https://img.shields.io/badge/TryHackMe-matheusincyber-059669?style=flat-square&logo=tryhackme&logoColor=white" />
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=matheusincyber&style=flat-square&color=7C3AED&label=Profile%20Views" />
-<img src="https://img.shields.io/github/followers/matheusincyber?style=flat-square&color=6366F1&label=Followers" />
-<img src="https://img.shields.io/github/stars/matheusincyber?style=flat-square&color=9333EA&label=GitHub%20Stars" />
+<img src="https://komarev.com/ghpvc/?username=matheusincyber&style=flat-square&color=0e7490&label=Profile%20Views" />
+<img src="https://img.shields.io/github/followers/matheusincyber?style=flat-square&color=059669&label=Followers" />
+<img src="https://img.shields.io/github/stars/matheusincyber?style=flat-square&color=d97706&label=GitHub%20Stars" />
 
 </div>
 
@@ -100,18 +101,18 @@ focus:
 
 ### Security & SOC Tools
 
-<img src="https://img.shields.io/badge/Splunk-Practicing-7C3AED?style=for-the-badge&logo=splunk&logoColor=white" />
-<img src="https://img.shields.io/badge/Sysmon-Practicing-4F46E5?style=for-the-badge&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/Nmap-Practicing-6D28D9?style=for-the-badge&logo=gnometerminal&logoColor=white" />
-<img src="https://img.shields.io/badge/TryHackMe-Hands--On-9333EA?style=for-the-badge&logo=tryhackme&logoColor=white" />
+<img src="https://img.shields.io/badge/Splunk-Practicing-0F172A?style=for-the-badge&logo=splunk&logoColor=white" />
+<img src="https://img.shields.io/badge/Sysmon-Practicing-1E293B?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-Practicing-0E7490?style=for-the-badge&logo=gnometerminal&logoColor=white" />
+<img src="https://img.shields.io/badge/TryHackMe-Hands--On-059669?style=for-the-badge&logo=tryhackme&logoColor=white" />
 
 <br><br>
 
 ### Currently Learning
 
-<img src="https://img.shields.io/badge/Docker-Learning-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure-Basics-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-Basics-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-Learning-0E7490?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-Basics-2563EB?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-Basics-D97706?style=for-the-badge&logo=amazonaws&logoColor=white" />
 
 </div>
 
@@ -310,20 +311,20 @@ Scope of work:
 
 ### CompTIA
 
-<img src="https://img.shields.io/badge/CompTIA%20Security%2B-In%20Progress-6D28D9?style=for-the-badge&logo=comptia&logoColor=white" />
+<img src="https://img.shields.io/badge/CompTIA%20Security%2B-In%20Progress-D97706?style=for-the-badge&logo=comptia&logoColor=white" />
 
 ### Ironhack
 
-<img src="https://img.shields.io/badge/Ironhack-Cybersecurity%20Bootcamp-7C3AED?style=for-the-badge&logo=academia&logoColor=white" />
-<img src="https://img.shields.io/badge/RNCP%2037680-Level%206-4F46E5?style=for-the-badge&logo=readme&logoColor=white" />
+<img src="https://img.shields.io/badge/Ironhack-Cybersecurity%20Bootcamp-0F172A?style=for-the-badge&logo=academia&logoColor=white" />
+<img src="https://img.shields.io/badge/RNCP%2037680-Level%206-1E293B?style=for-the-badge&logo=readme&logoColor=white" />
 
 ### TryHackMe
 
-<img src="https://img.shields.io/badge/TryHackMe-Top%201%25-9333EA?style=for-the-badge&logo=tryhackme&logoColor=white" />
+<img src="https://img.shields.io/badge/TryHackMe-Top%201%25-059669?style=for-the-badge&logo=tryhackme&logoColor=white" />
 
 ### Cloud & DevOps
 
-<img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-Currently%20Learning-6366F1?style=for-the-badge&logo=icloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-Currently%20Learning-0E7490?style=for-the-badge&logo=icloud&logoColor=white" />
 
 ---
 
@@ -332,15 +333,15 @@ Scope of work:
 <div align="center">
 
 <a href="https://tryhackme.com/p/matheusincyber">
-  <img src="https://img.shields.io/badge/TryHackMe-matheusincyber-7C3AED?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  <img src="https://img.shields.io/badge/TryHackMe-matheusincyber-059669?style=for-the-badge&logo=tryhackme&logoColor=white" />
 </a>
 
 <a href="https://github.com/matheusincyber">
-  <img src="https://img.shields.io/badge/GitHub-matheusincyber-1E1B4B?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-matheusincyber-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/matheus-de-carvalho">
-  <img src="https://img.shields.io/badge/LinkedIn-Matheus%20De%20Carvalho-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/matheusincyber">
+  <img src="https://img.shields.io/badge/LinkedIn-matheusincyber-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
@@ -351,15 +352,15 @@ Scope of work:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusincyber&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusincyber&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=22C55E&text_color=C9D1D9" />
 
 <br><br>
 
-<img height="180em" src="https://streak-stats.demolab.com?user=matheusincyber&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD" />
+<img height="180em" src="https://streak-stats.demolab.com?user=matheusincyber&hide_border=true&background=0D1117&ring=22C55E&fire=D97706&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" />
 
 <br><br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusincyber&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusincyber&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" />
 
 </div>
 
@@ -369,7 +370,7 @@ Scope of work:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=matheusincyber&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=matheusincyber&theme=matrix&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7" />
 
 </div>
 
@@ -379,7 +380,7 @@ Scope of work:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=matheusincyber&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&area_color=6D28D9" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=matheusincyber&hide_border=true&bg_color=0D1117&color=C9D1D9&line=22C55E&point=38BDF8&area=true&area_color=0E7490" />
 
 </div>
 
@@ -436,19 +437,19 @@ open_to:
 <div align="center">
 
 <a href="mailto:matheusincyber@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-matheusincyber%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-matheusincyber%40gmail.com-0F172A?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/matheusincyber">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-matheusincyber-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://github.com/matheusincyber">
-  <img src="https://img.shields.io/badge/GitHub-View%20Portfolio-1E1B4B?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-View%20Portfolio-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://tryhackme.com/p/matheusincyber">
-  <img src="https://img.shields.io/badge/TryHackMe-View%20Profile-9333EA?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  <img src="https://img.shields.io/badge/TryHackMe-View%20Profile-059669?style=for-the-badge&logo=tryhackme&logoColor=white" />
 </a>
 
 </div>
@@ -461,5 +462,6 @@ open_to:
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:111827,45:064e3b,100:020617" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:111827,45:0e7490,100:020617" />
+
 </div>
