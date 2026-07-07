@@ -352,15 +352,15 @@ Scope of work:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusincyber&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=22C55E&text_color=C9D1D9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusincyber&show_icons=true&theme=github_dark&hide_border=true&title_color=38BDF8&icon_color=22C55E&text_color=C9D1D9" />
 
 <br><br>
 
-<img height="180em" src="https://streak-stats.demolab.com?user=matheusincyber&hide_border=true&background=0D1117&ring=22C55E&fire=D97706&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=matheusincyber&theme=github-dark-blue&hide_border=true" />
 
 <br><br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusincyber&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusincyber&layout=compact&theme=github_dark&hide_border=true&title_color=38BDF8&text_color=C9D1D9" />
 
 </div>
 
@@ -370,7 +370,17 @@ Scope of work:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=matheusincyber&theme=matrix&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=matheusincyber&theme=onedark&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7" />
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=matheusincyber&theme=github-dark&hide_border=true&color=C9D1D9&line=22C55E&point=38BDF8&area=true" />
 
 </div>
 
