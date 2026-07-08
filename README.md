@@ -60,10 +60,14 @@ roles:
 
 locations:
   - Remote
+  - France
+  - Europe
+  - Canada
+  - United States
   - Hybrid: Paris
   - Hybrid: Orléans
-  - France
-  - Open to relocation
+  - Willing to relocate for the right opportunity
+  - Open to visa sponsorship where applicable
 
 focus:
   - SIEM Monitoring
